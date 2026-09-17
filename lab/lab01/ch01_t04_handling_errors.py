@@ -1,1 +1,1 @@
-print("How do you make a hot dog stand?\nYou take its chair!")
+print("How do you make a hot dog stand?You take its chair!")
