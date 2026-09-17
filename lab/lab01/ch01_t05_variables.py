@@ -1,1 +1,1 @@
-todays_date = "December 10, 2023"
+import datetimetodays_date = datetime.datetime.now()
