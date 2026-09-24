@@ -6,4 +6,4 @@ current_year = now.year
 current_month = now.month
 current_day = now.day
 
-printnow.year
+print(now.year
