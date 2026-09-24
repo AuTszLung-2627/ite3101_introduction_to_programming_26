@@ -7,5 +7,5 @@ current_month = now.month
 current_day = now.day
 
 print(now.year)
-print now.(month)
-print now.day)
+print(now.month)
+print(now.day)
