@@ -10,5 +10,5 @@ def clinic():
         print("You didn't pick left or right! Try again.")
         clinic()
 
-if__
+if__name__ == "__main__":
 clinic()
