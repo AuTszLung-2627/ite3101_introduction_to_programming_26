@@ -2,7 +2,7 @@ from datetime import datetime
 
 now = datetime.now()
 
-cu
+current
 current_month = now.month
 current_day = now.day
 
