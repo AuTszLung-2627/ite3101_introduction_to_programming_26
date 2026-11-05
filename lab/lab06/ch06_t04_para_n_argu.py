@@ -1,5 +1,5 @@
 def power(base: float, expoent: float):  # Add your parameters here!
-    result = base ** e
+    result = base ** expoent
     print("%d to the power of %d is %d." % (base, exponent, result))
 
 
