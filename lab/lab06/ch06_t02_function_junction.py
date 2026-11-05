@@ -3,5 +3,6 @@
 # explain it soon!
 
 def spam():
+    pass
 # Define the spam function above this line.
 spam()
