@@ -7,4 +7,7 @@ if len(original) > 0:
     print(original)
 else:
     print("empty")
-if len(original) > 0 and original.lsalpha()
+if len(original) > 0 and original.lsalpha():
+    print(original)
+else:
+    print("empty")
