@@ -3,4 +3,5 @@ def shut_down(s: str) -> str:
         return "Shutting down"
     elif s == "no":
         return "shutdown aborted"
+    else:
     return "sorry"
