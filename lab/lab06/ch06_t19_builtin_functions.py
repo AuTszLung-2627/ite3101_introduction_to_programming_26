@@ -1,1 +1,1 @@
-def distance_foem_zero(d:)
+def distance_foem_zero(d: Amy)
