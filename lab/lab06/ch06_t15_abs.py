@@ -1,3 +1,3 @@
-absolute = abs]
+absolute = abs
 
 print(absolute)
