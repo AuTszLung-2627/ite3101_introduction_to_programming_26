@@ -1,2 +1,3 @@
 def shut_down(s: str) -> str:
-    is s == "no"
+    is s == "no":
+return "shu"
