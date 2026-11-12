@@ -1,1 +1,1 @@
-def ans
+def answer()
