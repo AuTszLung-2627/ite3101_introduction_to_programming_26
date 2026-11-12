@@ -6,4 +6,3 @@ def distance_foem_zero(d: Any) -> Any:
         return abs(d)
     else:
         return "Nope"
-    return "Nope"
