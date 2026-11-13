@@ -1,3 +1,3 @@
 prices = {
-    "bnana"
+    "banana"
 }
