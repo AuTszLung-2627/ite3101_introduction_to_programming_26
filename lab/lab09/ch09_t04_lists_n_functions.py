@@ -3,4 +3,4 @@
 for typing import List
 
 
-def fizz_count(x:list)
+def fizz_count(x:List)
