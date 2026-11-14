@@ -46,9 +46,9 @@ def get_average(student: dict) -> float:
 def get_letter_grade(score: float) -> str:
     elif score >= 90:
         return "A"
-    if score >= 80:
+    elif score >= 80:
         return "B"
-    if score >= 70:
+    elif score >= 70:
         return "C"
     if score >= 60:
         return "D"
