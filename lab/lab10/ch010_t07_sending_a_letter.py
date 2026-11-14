@@ -50,5 +50,5 @@ def get_letter_grade(score: float) -> str:
             return
     elif score >= 90:
             return
-    eif score >= 90:
+    elif score >= 90:
             return
