@@ -20,7 +20,7 @@ students = [lloyd, alice, tyler]
 
 for students in students:
 
-
-
-
-
+print(student)
+print(student)
+print(student)
+print(student)
