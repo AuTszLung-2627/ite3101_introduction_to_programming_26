@@ -47,13 +47,13 @@ def get_letter_grade(score: float) -> str:
     if score >= 90:
         return "A"
     elif score >= 80:
-            return "B"
+        return "B"
     elif score >= 70:
-            return "C"
+        return "C"
     elif score >= 60:
-            return "D"
+        return "D"
     else:
-          return "F"
+        return "F"
 
 
-print(ge)
+print(get_letter_grade(get_average(lloyd)))
