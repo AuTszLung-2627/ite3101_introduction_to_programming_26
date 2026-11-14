@@ -4,3 +4,24 @@ lloyd ={
     "quizzes": [],
     "test": [],
 }
+
+lloyd ={
+    "name":"Lioyd",
+    "homework": [],
+    "quizzes": [],
+    "test": [],
+}
+
+lloyd ={
+    "name":"Lioyd",
+    "homework": [],
+    "quizzes": [],
+    "test": [],
+}
+
+lloyd ={
+    "name":"Lioyd",
+    "homework": [],
+    "quizzes": [],
+    "test": [],
+}
