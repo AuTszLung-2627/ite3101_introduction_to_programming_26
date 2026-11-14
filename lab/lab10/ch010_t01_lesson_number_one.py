@@ -12,8 +12,8 @@ alice ={
     "test": [],
 }
 
-tyler={
-    "name":"Lioyd",
+tyler ={
+    "name":"",
     "homework": [],
     "quizzes": [],
     "test": [],
