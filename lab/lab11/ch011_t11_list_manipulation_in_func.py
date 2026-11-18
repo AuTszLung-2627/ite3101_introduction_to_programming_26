@@ -8,6 +8,6 @@ def list_extender(l: List[int]) -> List[int]:
     new_list.append(9)
     return new_list
 
-
-# 只保留这一行
-print(list_extender(n))
+# 注释掉所有 print，让测试框架自己处理
+# print(list_extender(n))
+# print(n)
