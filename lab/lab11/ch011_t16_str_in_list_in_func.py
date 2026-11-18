@@ -10,4 +10,4 @@ def jion_strings(words: List[str])-> str:
         result += word
     return result 
 
-# print(join_strings(n))
+print(join_strings(n))
