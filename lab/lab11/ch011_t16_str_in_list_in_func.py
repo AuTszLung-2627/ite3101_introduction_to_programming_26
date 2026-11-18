@@ -4,6 +4,7 @@ from typing import List
 n = ["Michael", "Lieberman"]
 # Add your function here
 
-def jion_strings(words: List[str])
+def jion_strings(words: List[str])-> str:
+    result = ""
 
 # print(join_strings(n))
