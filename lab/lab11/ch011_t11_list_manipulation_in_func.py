@@ -5,3 +5,4 @@ n = [3, 5, 7]
 
 
  print(list_extender(n))
+print(n)
