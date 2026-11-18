@@ -9,5 +9,5 @@ def list_extender(l: List[int]) -> List[int]:
     return l
 
 
-print(list_extender(n))
-print(n)
+
+
