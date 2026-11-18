@@ -3,7 +3,7 @@ from typing import list
 n = [3, 5, 7]
 
 
-def list_extender(l: list[int]) -> list[int]:
+def list_extender(l: List[int]) -> List[int]:
     l.append(9)
     return l
 
