@@ -1,3 +1,4 @@
 board = []
 
-for i in range5
+for i in range(5):
+    board.append('')
