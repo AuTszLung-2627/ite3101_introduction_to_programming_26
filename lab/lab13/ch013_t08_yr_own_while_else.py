@@ -6,5 +6,6 @@ random_number = randint(1, 10)
 guesses_left = 3
 # Start your game!
 while guesses_left > 0:
-    guess = (input("Your guess: ")_
+    guess = (input("Your guess: "))
+    if 
     guesses_left -= 1
