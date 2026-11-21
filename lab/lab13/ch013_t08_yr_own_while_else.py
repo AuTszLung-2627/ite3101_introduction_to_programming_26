@@ -7,5 +7,6 @@ guesses_left = 3
 # Start your game!
 while guesses_left > 0:
     guess = (input("Your guess: "))
-    if  guess == radom_
+    if  guess == random_number:
+        print("You win!")
     guesses_left -= 1
