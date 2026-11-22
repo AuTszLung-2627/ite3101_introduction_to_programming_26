@@ -1,2 +1,2 @@
 def is_even(x: float) -> bool:
-    return x % 2 == int(x)
+    return x == int(x)
