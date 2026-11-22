@@ -1,2 +1,2 @@
-def is_int(x: float) -> bool:
+def dight_sum(n:int)->int:
     return x == int(x)
