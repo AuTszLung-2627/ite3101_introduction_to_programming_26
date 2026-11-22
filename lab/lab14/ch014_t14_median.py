@@ -5,4 +5,4 @@ def median(lst: List[int])->float:
     if len(scorted_lst) % 2 == 0:
         index_1 = len(scorted_lst) // 2 - 1
         index_2 = len(scorted_lst) // 2
-        m = (scorted_lst[index_1]) + scorted_lst
+        m = (scorted_lst[index_1]) + scorted_lst[index_2]
