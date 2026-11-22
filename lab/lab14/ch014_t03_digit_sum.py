@@ -1,2 +1,4 @@
 def dight_sum(n:int)->int:
-    return x == int(x)
+    sum = 0
+    for char in str(n):
+        sum += char
